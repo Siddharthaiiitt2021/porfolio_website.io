@@ -1,0 +1,37 @@
+img.Avatar {
+    height: 175px;
+    width: 175px;
+    border-radius: 50%;
+    /* vertical-align: middle; */
+}
+
+.Introduction {
+    text-align: center;
+}
+
+.Education {
+    font-size: large;
+    text-align: center;
+}
+
+.Achievements {
+    text-align: left;
+}
+
+.align-right {
+    float: right;
+}
+
+.My_Skills {
+    text-align: center;
+    font-size: 90305307px;
+}
+
+.Contact_me {
+    text-align: center;
+}
+
+.carousel {
+    width: 100%;
+    height: 50%;
+}
